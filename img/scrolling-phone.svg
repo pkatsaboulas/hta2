@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+     width="300px" height="400px" viewBox="0 0 300 400" style="enable-background:new 0 0 300 400;" xml:space="preserve">
+<style type="text/css">
+    .st0{fill:transparent;stroke:#FFFFFF;stroke-miterlimit:10;}
+     #XMLID_1_{
+      opacity:0.3;
+    }
+    #XMLID_2_{
+      fill:transparent;
+      stroke:transparent;
+    }
+    #XMLID_3_{
+      fill:transparent;
+      stroke:#FFFFFF;
+      opacity:0.3;
+    }
+    #XMLID_4_{
+      fill:#FFFFFF;
+    }
+    #XMLID_71_{
+      fill:transparent;
+      stroke:#FFFFFF;
+      opacity:0.3;
+    }
+    #XMLID_84_{
+      overflow:hidden;
+    }
+    @keyframes scroll-page {
+      0%   {transform:translateY(45px);}
+      10% {transform:translateY(-50px);}
+      20% {transform:translateY(-50px);}
+      30% {transform:translateY(-120px);}
+      60% {transform:translateY(-120px);}
+      80% {transform:translateY(45px);}
+      100% {transform:translateY(45px);}
+    }
+    @keyframes press-btn {
+      0%   {opacity:0.2;}
+      60%   {opacity:0.2;}
+      80% {opacity:1;}
+      100% {opacity:0.2;}
+    }
+    .content{
+      opacity:0.2;
+    }
+    #XMLID_77_{
+      fill:#FFFFFF;
+      animation: press-btn 2.5s ease-out infinite;
+    }
+    .page{
+      fill:#FFFFFF;
+      animation: scroll-page 5s ease-out infinite;
+    }
+    #XMLID_11_{
+      font-family:sans-serif;
+      font-size:12px;
+      font-weight:bold;
+      opacity:0.7;
+    }
+</style>
+<path id="XMLID_1_" class="st0" d="M220.6,344.8H79.4c-6.6,0-12-5.4-12-12V67.2c0-6.6,5.4-12,12-12h141.2c6.6,0,12,5.4,12,12v265.5
+    C232.6,339.4,227.2,344.8,220.6,344.8z"/>
+<g id="XMLID_81_">
+    <defs>
+        <rect id="XMLID_2_" x="80.2" y="85" width="140" height="210.4"/>
+        <clipPath id="XMLID_84_">
+            <use xlink:href="#XMLID_2_"/>
+        </clipPath>
+    </defs>
+    <use xlink:href="#XMLID_2_"/>
+    <g id="XMLID_79_" class="st1" clip-path="url(#XMLID_84_)">
+        <g class="page">
+            <path id="XMLID_10_" class="st2 content" d="M126.5,95h-34V61h34V95z M207.5,61h-69v7.5h69V61z M207.5,74.3h-69v7.5h69V74.3z M207.5,87.5
+        h-69V95h69V87.5z M207.5,113h-115v4h115V113z M207.5,129h-115v4h115V129z M207.5,146h-115v4h115V146z M207.5,164h-115v4h115V164z
+         M207.5,182h-115v4h115V182z M207.5,200h-115v4h115V200z M207.5,218h-115v4h115V218z M207.5,236h-115v4h115V236z M207.5,256h-115v4
+        h115V256z M207.5,276h-115v4h115V276z M207.5,296h-115v4h115V296z M207.5,316h-115v4h115V316z M207.5,336h-115v4h115V336z"/>
+            <rect id="XMLID_77_" x="92.5" y="358.5" class="st3" width="115" height="23"/>
+            <text id="XMLID_11_" transform="matrix(1 0 0 1 132 374.25)" class="st4 st5">APPLY</text>
+        </g>
+    </g>
+</g>
+<rect id="XMLID_71_" x="80.2" y="85" class="st3" width="140" height="210.4"/>
+<circle id="XMLID_3_" cx="150" cy="320.3" r="10.6"/>
+
+</svg>
